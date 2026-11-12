@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" width="480" height="640" preserveAspectRatio="xMidYMid slice"><defs><filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .22 0"/></filter>
+<filter id="b"><feGaussianBlur stdDeviation="40"/></filter><filter id="b2"><feGaussianBlur stdDeviation="14"/></filter><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8c9bf"/><stop offset="1" stop-color="#c48b72"/></linearGradient><radialGradient id="sk" cx=".4" cy=".35" r=".8"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs><rect width="480" height="640" fill="url(#bg)"/><circle cx="360" cy="120" r="150" fill="#fff" opacity=".2" filter="url(#b)"/>
+    <path d="M150 250 C 130 120, 350 90, 340 250 C 360 380, 380 470, 330 520 L150 520 C 100 470, 130 380, 150 250Z" fill="#5e2f27"/>
+    <path d="M70 640 C 80 520, 160 470, 240 470 C 320 470, 400 520, 410 640Z" fill="#2a1d1f"/>
+    <rect x="215" y="380" width="50" height="100" rx="20" fill="#e9c2a8"/>
+    <ellipse cx="240" cy="290" rx="82" ry="104" fill="#e9c2a8"/><ellipse cx="240" cy="290" rx="82" ry="104" fill="url(#sk)"/>
+    <path d="M158 260 C 170 170, 300 150, 325 250 C 280 200, 200 200, 158 260Z" fill="#5e2f27"/><rect width="480" height="640" filter="url(#g)"/></svg>
